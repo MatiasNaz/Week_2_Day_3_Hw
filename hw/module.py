@@ -4,10 +4,10 @@
 
 
 def findArea():
-        length = int(input("What is the length of the room? "))
-        width = int(input("What is the width? "))
-        area = length * width
-        print("The area of your room is: " + str(area))
+    length = int(input("What is the length of the room? "))
+    width = int(input("What is the width? "))
+    area = length * width
+    print("The area of your room is: " + str(area))
             
 findArea()
 
